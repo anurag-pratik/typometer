@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/typometer/static/css/main.e8ad499a.chunk.css",
-    "main.js": "/typometer/static/js/main.33635d0b.chunk.js",
-    "main.js.map": "/typometer/static/js/main.33635d0b.chunk.js.map",
+    "main.js": "/typometer/static/js/main.81da88d7.chunk.js",
+    "main.js.map": "/typometer/static/js/main.81da88d7.chunk.js.map",
     "runtime-main.js": "/typometer/static/js/runtime-main.28cf2e30.js",
     "runtime-main.js.map": "/typometer/static/js/runtime-main.28cf2e30.js.map",
     "static/js/2.801ba81b.chunk.js": "/typometer/static/js/2.801ba81b.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.28cf2e30.js",
     "static/js/2.801ba81b.chunk.js",
     "static/css/main.e8ad499a.chunk.css",
-    "static/js/main.33635d0b.chunk.js"
+    "static/js/main.81da88d7.chunk.js"
   ]
 }
