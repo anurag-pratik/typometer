@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/typometer/static/css/main.3b2d02d7.chunk.css",
+    "main.css": "/typometer/static/css/main.e8ad499a.chunk.css",
     "main.js": "/typometer/static/js/main.a3113c11.chunk.js",
     "main.js.map": "/typometer/static/js/main.a3113c11.chunk.js.map",
     "runtime-main.js": "/typometer/static/js/runtime-main.28cf2e30.js",
@@ -8,13 +8,13 @@
     "static/js/2.801ba81b.chunk.js": "/typometer/static/js/2.801ba81b.chunk.js",
     "static/js/2.801ba81b.chunk.js.map": "/typometer/static/js/2.801ba81b.chunk.js.map",
     "index.html": "/typometer/index.html",
-    "static/css/main.3b2d02d7.chunk.css.map": "/typometer/static/css/main.3b2d02d7.chunk.css.map",
+    "static/css/main.e8ad499a.chunk.css.map": "/typometer/static/css/main.e8ad499a.chunk.css.map",
     "static/js/2.801ba81b.chunk.js.LICENSE.txt": "/typometer/static/js/2.801ba81b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.28cf2e30.js",
     "static/js/2.801ba81b.chunk.js",
-    "static/css/main.3b2d02d7.chunk.css",
+    "static/css/main.e8ad499a.chunk.css",
     "static/js/main.a3113c11.chunk.js"
   ]
 }
